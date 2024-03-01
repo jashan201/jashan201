@@ -12,3 +12,8 @@ In the vast universe of technology, I'm currently immersed in the intricacies of
 
 ## jashan's stats
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jashanpreet&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+### most used languages
+<img align="left" alt="languages" width="300" src="https://camo.githubusercontent.com/10abdc1418e53c2a6cbac4bb4032aaed9b97a78168c5dab24475400be3162850/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6468696c6c786e6d2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374">
