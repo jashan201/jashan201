@@ -11,7 +11,7 @@ In the vast universe of technology, I'm currently immersed in the intricacies of
 <img src="https://img.shields.io/badge/web-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889"/>&nbsp;
 
 ## jashan's stats
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jashanpreet&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jashan201&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
