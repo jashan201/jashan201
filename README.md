@@ -6,9 +6,14 @@ In the vast universe of technology, I'm currently immersed in the intricacies of
 
 
 ## My skills
-<img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
 <img src="https://img.shields.io/badge/web-HTML-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=2aa889"/>&nbsp;
 <img src="https://img.shields.io/badge/web-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/code-React-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/code-C-Sharp-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/code-.NET-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/code-MVC-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/code-SQL-Database-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
 
 ## jashan's stats
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jashan201&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
